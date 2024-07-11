@@ -1,1 +1,18 @@
+/* 目次のスタイル */
+h2 {
+  font-size: 1.5em; /* 目次の文字サイズを調整 */
+  margin-bottom: 10px; /* 目次間の余白を追加 */
+}
+
+/* 目次リンクのスタイル */
+a[href^="#anker"] {
+  font-size: 1.2em; /* リンクの文字サイズを調整 */
+  text-decoration: none; /* 下線を削除 */
+  color: #2589d0; /* リンクの色を設定 */
+}
+
+/* ホバー時のスタイル */
+a[href^="#anker"]:hover {
+  text-decoration: underline; /* ホバー時に下線を表示 */
+}
 
