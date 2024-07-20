@@ -3,9 +3,10 @@ html {
 }
 
 body {
-      max-width: 750px;
-      margin: 0 auto;
+      margin: auto;
+      width: 750px; /* 任意の幅を指定 */
 }
+
 
 h1 {
     color: #2b2b2b;
