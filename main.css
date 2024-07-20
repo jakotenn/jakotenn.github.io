@@ -8,3 +8,12 @@ h1 {
     border: 2px solid #3498db;
     width: 750px;
 }
+
+body {
+    width: 750px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
