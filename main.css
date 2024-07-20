@@ -16,6 +16,7 @@ h1 {
     background-color: #00a7db;
     padding: 20px;
     border: 2px solid #3498db;
+    width: 730px;
 }
 
 h2 {
@@ -26,6 +27,7 @@ h2 {
     background-color: #a0d8ef;
     padding: 10px;
     border: 2px solid #3498db;
+    width: 750px;
 }
 
 img {
@@ -35,4 +37,5 @@ img {
 
 p {
    color: #2b2b2b;
+   width: 750px;
 }
