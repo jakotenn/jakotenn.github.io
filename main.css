@@ -1,7 +1,14 @@
 html {
 font-family: "Zen Antique", serif;
 }
-
+body {
+display: flex;
+justify-content: center;
+padding: 0px 10px;
+max-width: 750px;
+width: 100%;
+margin: 0 auto;
+}
 h1 {
     text-align: center;
     background-color: #00a7db;
