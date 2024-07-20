@@ -16,3 +16,8 @@ a[href^="#anker"]:hover {
   text-decoration: underline; /* ホバー時に下線を表示 */
 }
 
+.zen-antique-regular {
+  font-family: "Zen Antique", serif;
+  font-weight: 400;
+  font-style: normal;
+}
